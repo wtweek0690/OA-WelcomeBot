@@ -1,3 +1,9 @@
 {
-  "token": "NzQ0NTg0NjM0MTgzOTc0OTUy.XzlWeg.rC0KTC6h6QVN4xleYecGashMu4A"
+  "token": "",
+  "reaction_yes": "✅",
+  "reaction_no": "❎",
+  "first_emote": "<:PikaCool:743571909546999819>",
+  "special_react_emote": "<:yay:734805624029970543>",
+  "roles_channelid": "705911037852909578",
+  "mainchat_channelid": "706248791677861948"
 }
